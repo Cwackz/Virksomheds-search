@@ -3,5 +3,10 @@
 ## Hvad er dette?
 Programmet bruger [CVRAPI's](https://cvrapi.dk) API til at søge efter virksomheder der er inregistreret i danmark. Programmet kan bruges til at finde informationer omkring hvad end registreret virksomhed såsom addresse, mail, telefon nummer osv, man ku også kalde det en [who.is](who.is) for virksomheder i stedet for domæner.
 
-## Hvorfor er der ingen kode?
-Selve programmet er W.I.P jeg er slet ikke noget langt nok til at jeg vil udgive det første snippet, planen er at jeg udgiver den første "Searcher" og derefter udvikler videre så den vil få funktioner såsom økonomi udregner og evt andet.
+## Første Snippet
+Der enligt ikke så meget at sige andet end at det er et simpelt api request program der prettifier outputtet.
+
+
+## STATUS
+Jeg har mistet alle idéer til hvordan jeg kan bygge videre på den så planen er i den nære fremtid optimerere jeg koden/adder funktioner, har du noget input du gerne vil se må du meget gerne skrive til mig på [kontakt\@1ia.tech](mailto:kontakt@1ia.tech?subject=idéer)
+
