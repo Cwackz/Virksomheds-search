@@ -1,4 +1,3 @@
-# main.py
 from utils.misc import *
 from utils.imports import *
 from functions.search import Search
@@ -25,3 +24,5 @@ class Main:
 
 if __name__ == "__main__":
     Main().run()
+
+    ##TODO - Lav en gui til programmet
