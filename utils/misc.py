@@ -1,4 +1,4 @@
-from imports import *
+from utils.imports import *
 
 def dataprint():
         print("""Hvilken data vil du se?
