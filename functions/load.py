@@ -11,5 +11,5 @@ class Load:
         with open(virkhistory_file, 'r') as f:
             content = f.read()
             content = content.replace('%20', ' ')
-            print('Search history:')
+            print('søge historik:')
             print(content)

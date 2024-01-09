@@ -17,6 +17,7 @@ class Main:
                 self.search.run()
             elif user_input == "2":
                 self.load.run()
+                input("Tryk enter for at komme videre...")
             elif user_input == "11":
                 continue
             else:
